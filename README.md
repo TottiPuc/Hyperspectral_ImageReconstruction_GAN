@@ -6,6 +6,6 @@ image and a group of PSFs.
 
 1. GAN_Reconstruction --> is a replique of the original paper thar you can find in this repository https://github.com/deepak112/Keras-SRGAN, with 3 channels 
 2. GAN_UIS --> is our propose with the custom layer and 12 channels 
-3. TITAN_GAN_UI --> is a colab with the hyperspectral image reconstruction  with 31 chanels 
+3. Titan_GAN_UIS --> is a colab with the hyperspectral image reconstruction  with 31 chanels 
 4. GAN_FRAMEWORK --> is the final framework with 70 channels
 
